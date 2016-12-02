@@ -1,0 +1,13 @@
+{
+	"name": "camera",
+	"initialColor": "#000000",
+	"targetColors": [
+		{
+			"color": "red",
+			"suffix": "--red"
+		}, {
+			"color": "#2E6BE6",
+			"suffix": "--azul"
+		}
+	]
+}

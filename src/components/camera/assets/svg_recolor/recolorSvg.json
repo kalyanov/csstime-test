@@ -1,0 +1,8 @@
+{
+	"name": "burger",
+	"initialColor": "#FFFF00",
+	"targetColors": [{
+		"color": "green",
+		"suffix": "--green"
+	}]
+}
